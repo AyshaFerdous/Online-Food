@@ -423,8 +423,13 @@ h2 {
     transition: transform 0.3s;
     display: flex;
     flex-direction: column;
-     width: 485px; 
-    height: 485px;
+width: 485px;   
+height: 333px;
+top: 2092px;
+left: 1255px;
+gap: 0px;
+opacity: 0px;
+
    
 }
 

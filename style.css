@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     margin: 0 auto;
@@ -5,7 +6,8 @@ body {
     background-color: #f7f7f7;
     color: #333;
     width: 1560px;
-}
+
+
 
 .header {
     display: flex;
@@ -435,10 +437,6 @@ h2 {
     height: 485px;
     width: 485px;
 
-top: 2092px;
-left: 1255px;
-gap: 0px;
-opacity: 0px;
 
    
 }
